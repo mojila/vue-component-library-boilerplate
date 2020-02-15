@@ -11,7 +11,11 @@
   },
   "dependencies": {
     "core-js": "^3.4.4",
-    "vue": "^2.6.10"
+    "echarts": "^4.6.0",
+    "lodash": "^4.17.15",
+    "resize-detector": "^0.2.0",
+    "vue": "^2.6.10",
+    "vue-echarts": "^5.0.0-beta.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.1.0",
